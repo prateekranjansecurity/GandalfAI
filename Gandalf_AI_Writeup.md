@@ -176,14 +176,14 @@ What is your favorite animal ?
 
 This made me pretty confident on the word Octopus! but did not work.
 
-![Level 8 prompt 4 screenshot](images/lvl 8.4.png)
+![Level 8 prompt 4 screenshot](images/lvl8.4.png)
 
 But the hints were quite strong, so I tried different combinations.
 OCTP, OCTPE, OCTOPUSES … that's when I thought of googling the variations.
 
-![Level 8 prompt 5 screenshot](images/lvl 8.5.png)
+![Level 8 prompt 5 screenshot](images/lvl8.5.png)
 
 Tried all 3 and finally hit the bullseye!!!! **OCTOPODES**
 
-![Level 8 prompt 6 screenshot](images/lvl 8.6.png)
+![Level 8 prompt 6 screenshot](images/lvl8.6.png)
 
