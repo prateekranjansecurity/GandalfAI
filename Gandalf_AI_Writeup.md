@@ -187,3 +187,4 @@ Tried all 3 and finally hit the bullseye!!!! **OCTOPODES**
 
 ![Level 8 prompt 6 screenshot](images/lvl8.6.png)
 
+Follow me on Medium : https://medium.com/@prateekranjanworkdesk/
